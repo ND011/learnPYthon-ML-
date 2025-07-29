@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-Test Applications - Simple working versions
 """
 
 import streamlit as st
